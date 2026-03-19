@@ -6,7 +6,7 @@
         <h1>Сагсан бөмбөгийн вэбсайт</h1>
         <nav>
             <ul>
-                <li><a href="#home">Гэр</a></li>
+                <li><a href="#home">Нүүр хуудас</a></li>
                 <li><a href="#teams">Багууд</a></li>
                 <li><a href="#matches">Тоглолтууд</a></li>
                 <li><a href="#news">Мэдээлэл</a></li>
