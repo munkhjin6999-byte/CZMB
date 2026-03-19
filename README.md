@@ -42,3 +42,51 @@ mongolian basketball players in czech
     <script src="script.js"></script>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сагсан бөмбөг</title>
+</head>
+<body>
+    <header>
+        <h1>Сагсан бөмбөгийн вэбсайт</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Гэр</a></li>
+                <li><a href="#teams">Багууд</a></li>
+                <li><a href="#matches">Тоглолтууд</a></li>
+                <li><a href="#news">Мэдээлэл</a></li>
+                <li><a href="#contact">Холбоо барих</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Танилцуулга</h2>
+            <p>Сагсан бөмбөгийн хамгийн сүүлийн үеийн мэдээллийг мэдэхийн тулд манай вэбсайтаар зочлоорой!</p>
+        </section>
+        <section id="teams">
+            <h2>Багууд</h2>
+            <p>Манай багуудын бүх мэдээллийг эндээс үзнэ үү.</p>
+        </section>
+        <section id="matches">
+            <h2>Тоглолтууд</h2>
+            <p>Энд сагсан бөмбөгийн тоглолтын хуваарь, тодорхойлолтыг оруулав.</p>
+        </section>
+        <section id="news">
+            <h2>Мэдээлэл</h2>
+            <p>Сагсан бөмбөгийн мэдээ, шинэчлэлтийг та эндээс авах боломжтой.</p>
+        </section>
+        <section id="contact">
+            <h2>Холбоо барих</h2>
+            <p>Бидэнтэй холбогдох хүсэлт, асуултаа эндээс илгээнэ үү.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 Сагсан бөмбөгийн клуб. Бүх эрх хуулиар хамгаалагдсан.</p>
+    </footer>
+</body>
+</html>
