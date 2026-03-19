@@ -21,6 +21,7 @@
         </section>
         <section id="teams">
             <h2>Багууд</h2>
+            <image binary or base64 content>
             <p>Манай багуудын бүх мэдээллийг эндээс үзнэ үү.</p>
         </section>
         <section id="matches">
